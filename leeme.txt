@@ -1,0 +1,9 @@
+Prueba Tyba
+
+Adjunto se encuentra:
+
+- El plan de pruebas (Advantage  - Plan de pruebas) que también contiene el informe de la ejecución de pruebas automatizadas al final del documento.
+- El archivo con la documentación de las pruebas de servicios(Prueba de servicios Tyba), que contiene los escenarios ejecutados y sus respectivas evidencias.
+- La coleccion de postman (Tyba tests.postman_collection.json) que contiene todos los escenarios ejecutados para los servicios (Crear, Consultar, Modificar y Eliminar una reserva) de la reserva (https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-UpdateBooking)
+- El archico con la documentación de los escenarios de pruebas ejecutados a la página Advantage Online Shopping, que ademas contiene los bugs y sugerencias.
+- Los scripts de automatización (Dentro del proyecto de automatización hay un archivo leeme.txt que contiene toda la información del proyecto)

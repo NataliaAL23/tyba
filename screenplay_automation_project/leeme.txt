@@ -1,0 +1,40 @@
+Resumen de codificaion
+Proyecto de automatizacion realizado para ejecutar pruebas del funcionamiento de la pagina web Advantage Online Shopping.
+
+#*El framework Se utiliza como framework principal Selenium Web Driver. Las pruebas se pueden ejecutar en la mayoría de los navegadores web modernos.
+
+#*Compilador Se utiliza como compilador el Java SE Development Kit 8 en su version 11.0.1, El JDK incluye una JVM privada y algunos otros recursos para finalizar el desarrollo de una aplicación Java.
+
+#*Prácticas de automatización La practica de automatizacion que se utiliza es:
+
+Screenplay: Es un modelo centrado en el usuario, que lo ayuda a cambiar el enfoque de las pruebas de aceptación automatizadas de interacciones de bajo nivel con el sistema, es lo que quieren lograr con su interacción con Su sistema y cómo exactamente lo van a hacer. Se utiliza esta practica por que es muy buena y amigable con los principios SOLID, ademas de esto integra el negocio con el codigo, y es mucho mas facil de entender, y su implementacion con DevOps tiene mucha simpatia.
+
+Serenity BDD: Es una biblioteca de informes de código abierto que nos ayuda a escribir criterios de aceptación automatizados mejor estructurados y más sostenibles, y también produce informes de pruebas valiosos y significativos que no solo informan sobre los resultados de las pruebas. pero también qué características han sido evaluadas.
+
+#*Herramienta de automatización utilizado
+
+*Selenium Web Driver *Serenity BDD *ScreenPlay *Cucumber
+
+#*Estrategia de automatización
+
+Se utiliza el modelo de diseño Screenplay.
+
+#*Aplicación que se esta probando
+
+Se esta el sitio Web de Advantage Demo. URL: https://www.advantageonlineshopping.com/#/
+
+#*El navegador y la versión utilizada
+
+Google Chrome Versión 104.0.5112.102 (Build oficial) (64 bits)
+
+#*Informacion necesaria para que una persona ingrese y conozca el funcionamiento de la automatizacion
+
+Lo mas importante es saber que el proyecto utiliza los runners AdvantageRegistroUsuarioRunner y AdvantageAutenticacionRunner (El AdvantageCompraProductosRunner existe pero el desarrollo de los escenarios aun esta sin terminar), que son los encargados de ejecutar la automatización. En el proyecto se encuentra un serenity.properties con la ruta del driver, la ruta del sitio web y otras propiedades de ejecución del proyecto
+
+#*Repositorio de git donde se encuentra alojado el proyecto
+
+URL: https://github.com/NataliaAL23/tyba.git
+
+#*Reporte del resultado de la automatización
+
+Dentro del proyecto se crea una carpeta llamada Target (siempre que se ejecuta completamente el proyecto), el cual contiene dicho informe.
