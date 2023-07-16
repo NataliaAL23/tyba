@@ -7,3 +7,4 @@ Adjunto se encuentra:
 - La coleccion de postman (Tyba tests.postman_collection.json) que contiene todos los escenarios ejecutados para los servicios (Crear, Consultar, Modificar y Eliminar una reserva) de la reserva (https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-UpdateBooking)
 - El archico con la documentación de los escenarios de pruebas ejecutados a la página Advantage Online Shopping, que ademas contiene los bugs y sugerencias.
 - Los scripts de automatización (Dentro del proyecto de automatización hay un archivo leeme.txt que contiene toda la información del proyecto)
+Tyba
